@@ -182,4 +182,4 @@ Este proyecto permite entender cómo funciona un sistema básico de carrito de c
 
 ## Autor
 
-Paula Cardenas
+Maria Paula Cardenas
